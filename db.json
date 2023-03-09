@@ -17,12 +17,6 @@
             "icon":"fa-solid fa-envelope",
             "text":"Our E-mail",
             "extrainfo":"SpeedyGonzaloLocalo@gmail.com"
-        },
-        { 
-            "id":4,
-            "icon":"fa-solid fa-hashtag",
-            "text":"Social Media",
-            "extrainfo":""
         }
     ],
     "menu":[
