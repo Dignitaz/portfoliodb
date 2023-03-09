@@ -1,0 +1,96 @@
+{
+    "contact_icons":[
+        { 
+            "id":1,
+            "icon":"fa-solid fa-map-location-dot",
+            "text":"Ours Adress"
+        },
+        { 
+            "id":2,
+            "icon":"fa-solid fa-phone",
+            "text":"Phone number"
+        },
+        { 
+            "id":3,
+            "icon":"fa-solid fa-envelope",
+            "text":"Our E-mail"
+        },
+        { 
+            "id":4,
+            "icon":"fa-solid fa-hashtag",
+            "text":"Social Media"
+        }
+    ],
+    "menu":[
+        {
+            "id":1,
+            "name":"Margherita",
+            "picture":"https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_120,w_120/f_auto/q_auto/v1678274922/static-takeaway-com/images/chains/pl/speedy_romano/products/margherita_maryna",
+            "price":[{"xl":29.90},{"l":24.90}],
+            "toppings":"tomato sauce, cheese, oregano"
+        },
+        {
+            "id":2,
+            "name":"Fungi",
+            "picture":"https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_120,w_120/f_auto/q_auto/v1678274922/static-takeaway-com/images/chains/pl/speedy_romano/products/fungi",
+            "price":[{"xl":32.90},{"l":27.90}],
+            "toppings":"tomato sauce, cheese, champignons, oregano"
+        },
+        {
+            "id":3,
+            "name":"Capriciosa",
+            "picture":"https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_120,w_120/f_auto/q_auto/v1678274922/static-takeaway-com/images/chains/pl/speedy_romano/products/capriciosa_soltysowa",
+            "price":[{"xl":35.90},{"l":29.90}],
+            "toppings":"tomato sauce, cheese, ham, champignons, oregano"
+        },
+        {
+            "id":4,
+            "name":"Neapolitana",
+            "picture":"https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_120,w_120/f_auto/q_auto/v1678274922/static-takeaway-com/images/chains/pl/speedy_romano/products/neapolitana",
+            "price":[{"xl":36.90},{"l":32.90}],
+            "toppings":"tomato sauce, cheese, salami, green olives, tomatoes, oregano"
+        },
+        {
+            "id":5,
+            "name":"Quattro formaggi",
+            "picture":"https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_120,w_120/f_auto/q_auto/v1678274922/static-takeaway-com/images/chains/pl/speedy_romano/products/quattro_formaggi",
+            "price":[{"xl":35.90},{"l":32.90}],
+            "toppings":"tomato sauce, mozzarella cheese, blue cheese, salad cheese, gouda cheese, oregano"
+        },
+        {
+            "id":6,
+            "name":"Mafioso",
+            "picture":"https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_120,w_120/f_auto/q_auto/v1678274922/static-takeaway-com/images/chains/pl/speedy_romano/products/neapolitana",
+            "price":[{"xl":37.90},{"l":33.90}],
+            "toppings":"tomato sauce, cheese, salami, kabanos sausage, garlic, jalapeno, tabasco peppers, oregano"
+        },
+        {
+            "id":7,
+            "name":"Newyork",
+            "picture":"https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_120,w_120/f_auto/q_auto/v1678274922/static-takeaway-com/images/chains/pl/speedy_romano/products/nowojorska",
+            "price":[{"xl":37.90},{"l":33.90}],
+            "toppings":"tomato sauce, cheese, sausage, ham, onion, jalapeno peppers, mushrooms, green olives, corn, oregano"
+        },
+        {
+            "id":8,
+            "name":"Chicago's",
+            "picture":"https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_120,w_120/f_auto/q_auto/v1678274922/static-takeaway-com/images/chains/pl/speedy_romano/products/chicago",
+            "price":[{"xl":38.90},{"l":34.90}],
+            "toppings":"tomato sauce, cheese, salami, ham, bacon, onion, pepper, mushrooms, green olives, oregano"
+        },
+        {
+            "id":9,
+            "name":"Roma",
+            "picture":"https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_120,w_120/f_auto/q_auto/v1678274922/static-takeaway-com/images/chains/pl/speedy_romano/products/roma",
+            "price":[{"xl":36.90},{"l":31.90}],
+            "toppings":"tomato sauce, cheese, bacon, kabanos sausage, salami, onion, tabasco, oregano"
+        },
+        {
+            "id":10,
+            "name":"Tonno",
+            "picture":"https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_120,w_120/f_auto/q_auto/v1678274922/static-takeaway-com/images/chains/pl/speedy_romano/products/tonno",
+            "price":[{"xl":36.90},{"l":31.90}],
+            "toppings":"tomato sauce, cheese, onion, tuna, pickled cucumber, oregano"
+        }
+    ]
+}
