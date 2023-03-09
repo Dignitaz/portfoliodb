@@ -3,22 +3,26 @@
         { 
             "id":1,
             "icon":"fa-solid fa-map-location-dot",
-            "text":"Ours Adress"
+            "text":"Ours Adress",
+            "extrainfo":"ul. SpeedyGonzalo 77, Białystok"
         },
         { 
             "id":2,
             "icon":"fa-solid fa-phone",
-            "text":"Phone number"
+            "text":"Phone number",
+            "extrainfo":"+48 123 321 123"
         },
         { 
             "id":3,
             "icon":"fa-solid fa-envelope",
-            "text":"Our E-mail"
+            "text":"Our E-mail",
+            "extrainfo":"SpeedyGonzaloLocalo@gmail.com"
         },
         { 
             "id":4,
             "icon":"fa-solid fa-hashtag",
-            "text":"Social Media"
+            "text":"Social Media",
+            "extrainfo":""
         }
     ],
     "menu":[
